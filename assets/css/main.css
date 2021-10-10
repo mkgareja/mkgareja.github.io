@@ -550,6 +550,7 @@
 				position: relative;
 				top: 0;
 				width: 5.35em;
+				margin: 10px;
 			}
 
 				#header nav li:nth-child(1) {
@@ -1039,9 +1040,4 @@
 		#header nav {
 			padding: 0 1em;
 		} }
-@media only screen and (max-width: 600px) { 
-{
-	#header nav li{
-		margin: 10px;
-	}
-}
+
