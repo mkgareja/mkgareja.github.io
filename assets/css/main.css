@@ -1039,3 +1039,9 @@
 		#header nav {
 			padding: 0 1em;
 		} }
+@media all and (max-width: 600px) and (orientation:landscape) 
+{
+	#header nav li{
+		margin: 10px;
+	}
+}
